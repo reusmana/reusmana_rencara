@@ -4,3 +4,7 @@ vlog,
 tentang main main ke deebweb
 3D blender,
 membuatt ruamh 3D
+
+
+fundamental struktur data
+
